@@ -1,0 +1,36 @@
+{
+  "name": "dip",
+  "version": "1.0.0",
+  "description": "create npx dip card",
+  "main": "index.js",
+  "bin": {
+    "dip": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIp15739/npx-dip.git"
+  },
+  "keywords": [
+    "node",
+    "contact",
+    "business card",
+    "npx",
+    "npx-card",
+    "dip",
+    "npx-dip"
+  ],
+  "author": "Dip Vachhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIp15739/npx-dip/issues"
+  },
+  "homepage": "https://github.com/DIp15739/npx-dip#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "cfonts": "^2.3.0",
+    "chalk": "^2.4.1"
+  }
+}
