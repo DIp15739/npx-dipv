@@ -1,10 +1,10 @@
 {
-  "name": "dip",
+  "name": "dipv",
   "version": "1.0.0",
-  "description": "create npx dip card",
+  "description": "create npx dipv card",
   "main": "index.js",
   "bin": {
-    "dip": "./index.js"
+    "dipv": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +19,8 @@
     "business card",
     "npx",
     "npx-card",
-    "dip",
-    "npx-dip"
+    "dipv",
+    "npx-dipv"
   ],
   "author": "Dip Vachhani",
   "license": "ISC",

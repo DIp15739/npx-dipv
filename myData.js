@@ -1,5 +1,5 @@
 module.exports = {
-  packageName: "dip",
+  packageName: "dipv",
   name: {
     first: "Dip",
     last: "Vachhani",
